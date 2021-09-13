@@ -1,4 +1,4 @@
-## Cadastro de Funcionarios e Lojas
+## Disciplina: Projeto de Arquitetura de Sistema
 Trata-se de um pequeno trabalho acadêmico realizado na disciplina de Projeto de Arquitetura de Sistema, onde foi requisitado a construção de um **CRUD (Create, Read, Update e Delete)** para algum tipo de aplicação.
 
 Meu [Linkedin](https://www.linkedin.com/in/germano-macieira).
